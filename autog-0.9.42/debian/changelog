@@ -1,0 +1,5 @@
+autog (0.9.42-1) focal; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Shubham Shukla <shubhamshuklaerssss@gmail.com>  Sat, 15 Oct 2022 12:43:46 +0530
